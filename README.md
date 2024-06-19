@@ -1,7 +1,7 @@
 # Проектные работы дата аналитика - Лагун К.С.
-## [A/B-testing](Data-Analysis-Projects/A:B-testing/README.md) 
+## [A/B-testing](A:B-testing/README.md) 
 Проверка гипотез по увеличению выручки в интернет-магазине — оценить результаты A/B теста
-## SPB_real_estate
+## [SPB_real_estate](SPB_real_estate/README.md)
 Продажа квартир в Санкт-Петербурге — анализ рынка недвижимости
 ## TED_talks_tableau
 Создание дашборда по пользовательским событиям для агрегатора новостей
