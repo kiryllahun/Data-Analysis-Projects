@@ -1,4 +1,4 @@
-# Анализ убытков приложения ProcrastinatePRO+
+# [Анализ убытков приложения ProcrastinatePRO+](business_analysis.ipynb)
 ## Данные
 
 В наличии были следующие данные:
